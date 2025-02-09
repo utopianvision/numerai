@@ -1,0 +1,18 @@
+Metadata-Version: 2.2
+Name: numerai
+Version: 0.1.0
+Summary: cryptooo
+Description-Content-Type: text/markdown
+Requires-Dist: uv
+Requires-Dist: ipykernel
+Requires-Dist: numerapi
+Requires-Dist: pandas
+Requires-Dist: pyarrow
+Requires-Dist: matplotlib
+Requires-Dist: lightgbm
+Requires-Dist: scikit-learn
+Requires-Dist: cloudpickle==2.2.1
+Requires-Dist: scipy==1.15.1
+Requires-Dist: setuptools
+
+# numerai

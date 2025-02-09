@@ -1,0 +1,11 @@
+uv
+ipykernel
+numerapi
+pandas
+pyarrow
+matplotlib
+lightgbm
+scikit-learn
+cloudpickle==2.2.1
+scipy==1.15.1
+setuptools

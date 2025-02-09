@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+numerai.egg-info/PKG-INFO
+numerai.egg-info/SOURCES.txt
+numerai.egg-info/dependency_links.txt
+numerai.egg-info/requires.txt
+numerai.egg-info/top_level.txt
